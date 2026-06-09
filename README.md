@@ -41,7 +41,7 @@ This project demonstrates practical experience with PCB design, electrical routi
 
 ### Keyboard Matrix Schematic
 
-![Keyboard Layout](keyboard-matrix-schematic.png)
+![Keyboard Layout](images/keyboard-matrix-schematic.png)
 
 ### PCB Front View
 
