@@ -33,7 +33,7 @@ This project demonstrates practical experience with PCB design, electrical routi
 
 ### Keyboard Layout
 
-![Keyboard Layout](images/layout.png)
+![Keyboard Layout](images/kicad-pcb-layout.png.png)
 
 ### PCB Front View
 
